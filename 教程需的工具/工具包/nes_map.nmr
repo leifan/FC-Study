@@ -1,0 +1,6 @@
+[INFO]
+BINFILE=nes_map.dat
+COLORFILE=nes_map.color
+CHRDIR=F:\Nes Demo\教程需的工具\工具包\
+CHRFILE=nes_chr.chr
+CHRBANK=0
